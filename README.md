@@ -2,6 +2,15 @@
 
 # TensorZero
 
+> [!NOTE]
+>
+> **This is a fork maintained by [Vest](https://github.com/vest-investments).**
+> TensorZero, Inc. archived the upstream repository in June 2026.
+> This fork tracks upstream's final release, **2026.6.0**, and Vest maintains it for the gateway and the Python client it runs in production.
+> There is no roadmap beyond that.
+> Issues are welcome; fixes are scoped to what the gateway and the Python client need.
+> Vest's agent framework on top of TensorZero is **[t0-agents](https://github.com/vest-investments/t0-agents)**.
+
 <p><picture><img src="https://www.tensorzero.com/github-trending-badge.svg" alt="GitHub Trending - #1 Repository Of The Day"></picture></p>
 
 **TensorZero is an open-source LLMOps platform that unifies:**
@@ -25,10 +34,6 @@ TensorZero is used by companies ranging from frontier AI startups to the Fortune
   <b><a href="https://www.tensorzero.com/docs" target="_blank">Docs</a></b>
   ·
   <b><a href="https://www.x.com/tensorzero" target="_blank">Twitter</a></b>
-  ·
-  <b><a href="https://www.tensorzero.com/slack" target="_blank">Slack</a></b>
-  ·
-  <b><a href="https://www.tensorzero.com/discord" target="_blank">Discord</a></b>
   <br>
   <br>
   <b><a href="https://www.tensorzero.com/docs/quickstart" target="_blank">Quick Start (5min)</a></b>
@@ -222,7 +227,7 @@ TensorZero Autopilot (automated AI engineer) is a complementary paid product pow
 
 **Who is building TensorZero?**
 
-Our technical team includes a former Rust compiler maintainer, machine learning researchers (Stanford, CMU, Oxford, Columbia) with thousands of citations, and the chief product officer of a decacorn startup. We're backed by the same investors as leading open-source projects (e.g. ClickHouse, CockroachDB) and AI labs (e.g. OpenAI, Anthropic). See our **[$7.3M seed round announcement](https://www.tensorzero.com/blog/tensorzero-raises-7-3m-seed-round-to-build-an-open-source-stack-for-industrial-grade-llm-applications/)** and **[coverage from VentureBeat](https://venturebeat.com/ai/tensorzero-nabs-7-3m-seed-to-solve-the-messy-world-of-enterprise-llm-development/)**. We're **[hiring in NYC](https://www.tensorzero.com/jobs)**.
+TensorZero, Inc. built it and archived the upstream repository in June 2026. Vest maintains this fork (see the note at the top).
 
 **How do I get started?**
 
@@ -234,10 +239,7 @@ You can adopt TensorZero incrementally. Our **[Quick Start](https://www.tensorze
 The **[Quick Start](https://www.tensorzero.com/docs/quickstart)** shows it's easy to set up an LLM application with TensorZero.
 
 **Questions?**
-Ask us on **[Slack](https://www.tensorzero.com/slack)** or **[Discord](https://www.tensorzero.com/discord)**.
-
-**Using TensorZero at work?**
-Email us at **[hello@tensorzero.com](mailto:hello@tensorzero.com)** to set up a Slack or Teams channel with your team (free).
+Open an issue on **[this fork](https://github.com/vest-investments/tensorzero/issues)**.
 
 ## Examples
 
