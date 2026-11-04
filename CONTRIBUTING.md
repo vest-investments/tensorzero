@@ -44,19 +44,11 @@ Open an issue as a starting point.
 
 ### Content — Examples, Tutorials, etc.
 
-We'd love to collaborate on examples, tutorials, and other content that showcases how to build AI applications with TensorZero.
-
-For content contributed directly to our repository, please follow the same process as code contributions.
-
-For external content (e.g. blog posts, videos, social media content), we're excited to support and amplify your work.
-Open an issue if you'd like technical review or feedback before publishing.
-
-We're happy to provide guidance and support for both types of content to help you create high-quality resources for the TensorZero community.
+Examples and tutorials contributed to this repository follow the same process as code contributions.
 
 ### Integrations
 
-We're open to exploring integrations with other projects and tools (both open-source and commercial).
-Reach out if you're interested in collaborating.
+New integrations are out of scope for this fork unless the gateway or the Python client needs them.
 
 ### Security
 

@@ -8,6 +8,7 @@
 > TensorZero, Inc. archived the upstream repository in June 2026.
 > This fork tracks upstream's final release, **2026.6.0**, and Vest maintains it for the gateway and the Python client it runs in production.
 > There is no roadmap beyond that.
+> The website, docs and blog linked below are upstream's and describe 2026.6.0; Vest does not maintain them.
 > Issues are welcome; fixes are scoped to what the gateway and the Python client need.
 > Vest's agent framework on top of TensorZero is **[t0-agents](https://github.com/vest-investments/t0-agents)**.
 
