@@ -1,10 +1,11 @@
 # Security Policy
 
-## Update your software
+## Supported versions
 
-TensorZero follows Calendar Versioning.
-Please update to the most recent version to apply the latest patches.
+This fork tracks TensorZero 2026.6.0, upstream's final release.
+Fixes land on `main` against that line.
 
 ## Report a vulnerability
 
-Please email security@tensorzero.com to disclose a security vulnerability.
+Report privately through [GitHub private vulnerability reporting](https://github.com/vest-investments/tensorzero/security/advisories/new).
+Please do not open a public issue for a vulnerability.
